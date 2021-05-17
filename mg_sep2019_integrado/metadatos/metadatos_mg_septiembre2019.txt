@@ -1,0 +1,29 @@
+Identifier: 
+
+Title: Marco geoestadístico, septiembre 2019.
+
+Description: El Marco Geoestadístico (MG) es un producto que integra información vectorial, tablas de atributos y catálogos.
+Muestra la división geoestadística del territorio nacional en sucesivos niveles de desagregación. Esta división está dada por los llamados LÍMITES GEOESTADÍSTICOS, que pueden coincidir con los límites político-administrativos oficiales, los cuales tienen sustento legal; sin embargo, los que no cuentan con dicho sustento deben entenderse como límites provisionales, trazados sólo para realizar los operativos censales. Estos límites provisionales no tienen pretensión de oficialidad, dado que el Instituto Nacional de Estadística y Geografía no es el órgano facultado para definir límites político-administrativos.
+El Marco Geoestadístico contiene además la cobertura de todas las localidades del territorio nacional, de manera que a cada una de las viviendas le corresponde una secuencia de claves de identificación geográfica que está dada por los sucesivos niveles de desagregación en los que se divide el territorio nacional.
+
+Modified: 2019-09-13
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI.
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: https://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary: 
+
+Keyword: “AGEB”, “AGEE”, “AGEM”, “Área Geoestadística Básica”, “Área Geoestadística Estatal”, “Área Geoestadística Municipal”, “Caserío Disperso”, “Ejes de Vialidad”, “Frentes de manzana”, “Integración Territorial”, “Límite Geoestadístico”, “Límite Político Administrativo”, “Localidad Amanzanada”, “Localidad Puntual Rural”, “Manzana”, “Polígono Externo de Manzana”, “Polígono Externo”, “Servicio Tipo Área”, “Servicio Tipo Línea”, “Servicio Tipo Punto”
+
+ContactPoint: Lic. José de Jesús Esquivel de la Rosa, 800 111 4634.
+
+Temporal: 2018-10-01-2019-07-31
+
+Spatial: Estados Unidos Mexicanos.
+
+AccrualPeriodicity: Irregular.
+
+Distribution: https://www.inegi.org.mx/app/mapas/?t=0170000000000000
